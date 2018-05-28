@@ -1,0 +1,32 @@
+{
+  "name": "fblogin",
+  "version": "1.0.0",
+  "description": "a smaple application to add fb login to any node application",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rkhilwani/express-fblogin.git"
+  },
+  "keywords": [
+    "expressjs",
+    "login",
+    "with",
+    "facebook",
+    "nodejs"
+  ],
+  "author": "rkhilwani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rkhilwani/express-fblogin/issues"
+  },
+  "homepage": "https://github.com/rkhilwani/express-fblogin#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-session": "^1.15.6",
+    "request": "^2.87.0"
+  }
+}
